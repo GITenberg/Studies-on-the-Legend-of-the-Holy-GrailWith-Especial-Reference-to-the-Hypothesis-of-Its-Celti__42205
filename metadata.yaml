@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41572'
     url: http://www.gutenberg.org/2009/agents/41572
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42205#Studies-on-the-Legend-of-the-Holy-GrailWith-Especial-Reference-to-the-Hypothesis-of-Its-Celti_
 gutenberg_issued: '2013-02-26'
 gutenberg_type: Text
 identifiers:
