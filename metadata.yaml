@@ -1,0 +1,36 @@
+_repo: Studies-on-the-Legend-of-the-Holy-GrailWith-Especial-Reference-to-the-Hypothesis-of-Its-Celti__42205
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42205-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nutt, Alfred Trübner
+    alias: Nutt, Alfred Trubner
+    birthdate: 1856
+    deathdate: 1910
+    gutenberg_agent_id: '41572'
+    url: http://www.gutenberg.org/2009/agents/41572
+description: ''
+gutenberg_issued: '2013-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42205'
+  lccn: '24006273'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grail -- Legends'
+- !lcsh 'Mythology, Celtic'
+- !lcsh 'Grail -- Legends -- History and criticism'
+- !lcsh 'Literature, Medieval -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'Quests (Expeditions) in literature'
+- !lcsh 'Arthurian romances -- History and criticism'
+- !lcsh 'Knights and knighthood in literature'
+title: 'Studies on the Legend of the Holy Grail
+
+  With Especial Reference to the Hypothesis of Its Celtic Origin'
+url: http://www.gutenberg.org/ebooks/42205
